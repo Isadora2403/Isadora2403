@@ -1,19 +1,19 @@
-Hi there 👋
+## Olá, eu sou Isadora Marques 👋
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Isadora2403">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Isadora2403&show_icons=true&theme=cobalt&count_private=true" />
-      </a>
-    </td>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isadora2403&layout=compact&langs_count=16&theme=cobalt&hide_progress=true&card_width=250" />
-    </td>
-   </tr>
-</table>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Isadora2403&theme=dracula&area=true" width="100%" /> 
+<div class="d-block" align="center">
+  <a href="https://github.com/Isadora2403">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Isadora2403&show_icons=true&theme=cobalt&count_private=true&border_radius=10&border_color=ffffff"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isadora2403&layout=compact&langs_count=16&theme=cobalt&hide_progress=true&card_width=200" />
+</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Isadora2403&theme=dracula&area=true" width="100%" &border_color=ffffff"/>
 
+<div align="center">
+  <picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nferdica/nferdica/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nferdica/nferdica/output/github-contribution-grid-snake-dark.svg">
+    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nferdica/nferdica/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 <!--<div> 
 <a href="https://github.com/Isadora2403">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Isadora2403&show_icons=true&theme=cobalt&count_private=true" />
