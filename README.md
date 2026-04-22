@@ -1,4 +1,12 @@
-## Olá, eu sou Isadora Marques 👋
+<div align="center">
+  <h1>Olá, eu sou a Isadora Marques 👋</h1>
+  <p><strong>Desenvolvedora Full Stack | Estudante de Inteligência Artificial</strong></p>
+  <p><i>"Transformando problemas reais em soluções possíveis, práticas e inteligentes."</i></p>
+  
+  ---
+  
+
+
 
 <div class="d-block" align="center">
   <a href="https://github.com/Isadora2403">
