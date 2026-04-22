@@ -8,11 +8,16 @@
 
 
 
-<div class="d-block" align="center">
-  <a href="https://github.com/Isadora2403">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Isadora2403&show_icons=true&theme=cobalt&count_private=true&border_radius=10&border_color=ffffff"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isadora2403&layout=compact&langs_count=16&theme=cobalt&hide_progress=true&card_width=200" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Isadora2403"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Isadora2403&show_icons=true&theme=cobalt&count_private=true&border_radius=10&border_color=ffffff"/></a>
+    </td>
+    <td align="center">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isadora2403&hide_progress=true&theme=cobalt"
+    </td>
+  </tr>
+</table>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Isadora2403&theme=dracula&area=true" width="100%" &border_color=ffffff"/>
 
 <div align="center">
